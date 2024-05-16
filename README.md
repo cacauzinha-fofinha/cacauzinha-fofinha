@@ -1,16 +1,16 @@
-### Hi there 👋
+### bom dia, boa tarde e boa noite a todos os amores da minha vida!
 
-<!--
-**cacauzinha-fofinha/cacauzinha-fofinha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+eu me chamo claudia
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- estou estudando no [alura] (https://www.alura.com.br)
+- ando desenvolvendo linguagem javascript.
+- utilizo essa area para utilizar codigos e sistemas tecnologicos ao trabalhar, alem de compartilhar meus projetos.
+
+## voce entra em contato comigo 📧
+
+ 00001114463966sp@al.educacao.sp.gov.br
+ 
+ bernardesclaudiaedneia@gmail.com
+
+![](https://tenor.com/pt-BR/view/yato-hiyori-noragami-love-hug-gif-8030030)
